@@ -1,0 +1,6 @@
+{
+  "model": "Neural BPR (fast)",
+  "embedding_dim": 16,
+  "epochs": 3,
+  "train_time_sec": 253.63778495788574
+}

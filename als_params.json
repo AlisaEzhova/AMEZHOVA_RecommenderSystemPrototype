@@ -1,0 +1,7 @@
+{
+  "model": "ALS (implicit)",
+  "factors": 30,
+  "regularization": 0.01,
+  "iterations": 8,
+  "train_time_sec": 713.6957364082336
+}
