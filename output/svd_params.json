@@ -1,6 +1,0 @@
-{
-  "model": "SVD",
-  "k": 50,
-  "train_time_sec": 107.31326198577881,
-  "explained_variance": 0.35721132159233093
-}
